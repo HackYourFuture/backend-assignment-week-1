@@ -1,6 +1,6 @@
-# [Track] week X assignment
-HackYourFuture <Track> week X assignment
-The Week X assignment for the HackYourFuture <TRACK> can be found at the following link: [TODO: Assignment url in the learning platform]
+# Backend week 1 assignment
+HackYourFuture Backend week 1 assignment
+The Week 1 assignment for the HackYourFuture Backend can be found at the following link: https://hub.hackyourfuture.nl/backend-week-1-assignment
 
 
 ## Implementation Instructions
@@ -8,10 +8,4 @@ The Week X assignment for the HackYourFuture <TRACK> can be found at the followi
 Provide clear instructions on how trainees should implement the tasks.
 
 ### Task 1
-Instructions for Task 1
-
-### Task 2
-Instructions for Task 2
-
-...
-
+Implement the correct file structure in `task-1` folder.
